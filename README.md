@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Iván Dicesare</h1>
 <h3 align="center">A passionate Full Stack developer from Argentina</h3>
 
-
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
 - 👨‍💻 All of my projects are available at [https://ivand14.github.io/Portfolio/](https://ivand14.github.io/Portfolio/)
