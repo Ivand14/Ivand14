@@ -2,11 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Iván Dicesare</h1>
 
-<p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20developer;&20%center=true&width=440&height=45&color=black&vCenter=true&pause=1000&size=22" /></a>
-</p>
+<h3 align="center">A passionate Full Stack developer from Argentina</h3>
 
 
 <div align="center">
