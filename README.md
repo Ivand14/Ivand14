@@ -2,6 +2,11 @@
 
 <h1 align="center">Hi 👋, I'm Iván Dicesare</h1>
 
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20Code&center=true&width=440&height=45&color=black&vCenter=true&pause=1000&size=22" /></a>
+</p>
 
 
 <div align="center">
