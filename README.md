@@ -63,7 +63,6 @@
 
 <br clear="both">
 
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivand14&label=Profile%20views&color=0e75b6&style=flat" alt="ivand14" /> </p>
 
@@ -77,10 +76,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ivan-dicesare/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ivan-dicesare/" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivand14&show_icons=true&locale=en&layout=compact" alt="ivand14" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ivand14&show_icons=true&locale=en" alt="ivand14" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ivand14&" alt="ivand14" /></p>
 
