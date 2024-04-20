@@ -57,16 +57,32 @@
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-</div>
+
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Ivand14/Ivand14/output/snake.svg" alt="Snake animation" />
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ivand14&label=Profile%20views&color=0e75b6&style=flat" alt="ivand14" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ivand14" alt="ivand14" /></a> </p>
+
+- 👨‍💻 All of my projects are available at [https://ivand14.github.io/Portfolio/](https://ivand14.github.io/Portfolio/)
+
+- 📄 Know about my experiences [https://www.flipsnack.com/B65E6B77C6F/ivan-dicesare-dev-pdf-1/full-view.html](https://www.flipsnack.com/B65E6B77C6F/ivan-dicesare-dev-pdf-1/full-view.html)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ivan-dicesare/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ivan-dicesare/" height="30" width="40" /></a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivand14&show_icons=true&locale=en&layout=compact" alt="ivand14" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ivand14&show_icons=true&locale=en" alt="ivand14" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ivand14&" alt="ivand14" /></p>
+
 
 ###
